@@ -3,5 +3,6 @@
 <ul>
   <li>Currently learning .NET 💻</li>
 </ul>
-
-<img src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif" width="300px">
+<div align="center">
+  <img src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif" width="500px">
+</div>
