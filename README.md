@@ -1,7 +1,5 @@
 <h1>Hi there 👋</h1>
-**xZeroAM/xZeroAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h3>Hello, I'm Yasser. I enjoy programming.</h3>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
