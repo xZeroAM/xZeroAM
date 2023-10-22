@@ -3,14 +3,14 @@
 # Hi, I'm Yasser 👋
 ### I enjoy programming.
 
-<a target="_blank" align="center">
-  <img align="right" width="520" alt="GIF" src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif">
-</a>
 
-- 🌱 Currently learning .NET and React ⚛ 💻
+<div width="600">
+<!--   <img align="right" width="520" alt="GIF" src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif"> -->
+  - 🌱 Currently learning .NET and React ⚛ 💻
+</div>
 
 <br/>
-
+<br/>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies👨🏻‍💻</h2></summary>
