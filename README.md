@@ -7,21 +7,8 @@
   <img align="right" width="520" alt="GIF" src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif">
 </a>
 
-- 🔭 //
-
 - 🌱 Currently learning .NET and React ⚛ 💻
 
-- 🤝 //
-
-- 🌱 I’m currently learning //
-
-- 📝 //
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 //
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
 <div id="user-content-toc">
