@@ -6,7 +6,7 @@
 
 <div width="600">
 <!--   <img align="right" width="520" alt="GIF" src="https://media.giphy.com/media/YfL4ieDnxgX5W7rvnJ/giphy.gif"> -->
-  - 🌱 Currently learning .NET and React ⚛ 💻
+  - 🌱 Currently learning Java and Angular ⚛ 💻
 </div>
 
 <br/>
